@@ -114,8 +114,32 @@ This project demonstrates a complete end-to-end securitisation risk analytics sy
 
 It provides actionable insights for risk managers, analysts, and investors.
 
+Dashboard Images
+ Executive Dashboard
+
+![Executive Dashboard](images/Executive%20Dashboard.png)
+DPD Analysis
+
+![DPD Analysis](images/DPD%20Analysis.png)
+IFRS 9 Dashboard
+
+![IFRS 9 Dashboard](images/IFRS%209%20Dashboard.png)
+Investor Reporting
+
+![Investor Reporting](images/Investor%20Reporting.png)
+Vintage Analysis
+
+![Vintage Analysis](images/Vintage%20Analysis.png)
+ Waterfall & Tranche Analysis
+
+![WaterFall Tranche](images/WaterFall%20Tranche.png)
+Stress Testing Framework
+
+![Stress Testing](images/Stress%20Testing%20Framework.png)
+
+
 
 👨‍💻 Author
 
-Your Name
+Koduri Thanay Chowdary
 Data Analyst | Power BI | Risk Analytics
